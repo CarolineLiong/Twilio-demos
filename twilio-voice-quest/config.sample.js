@@ -1,0 +1,4 @@
+module.exports = {
+    TWILIO_ACCOUNT_SID: 'ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX',
+    TWILIO_AUTH_TOKEN: 'your_auth_token',
+};
